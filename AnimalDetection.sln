@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal Detection", "Animal Detection\Animal Detection.csproj", "{6A2ACBDD-43F5-4585-9030-B1E83DA6386C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDecomposer", "..\..\..\Documents\Visual Studio 2015\Projects\ImageDecomposer\ImageDecomposer\ImageDecomposer.csproj", "{E7A43832-E16C-42E8-9C9F-B4E2F3D9DF43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2ACBDD-43F5-4585-9030-B1E83DA6386C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2ACBDD-43F5-4585-9030-B1E83DA6386C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2ACBDD-43F5-4585-9030-B1E83DA6386C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2ACBDD-43F5-4585-9030-B1E83DA6386C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A43832-E16C-42E8-9C9F-B4E2F3D9DF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A43832-E16C-42E8-9C9F-B4E2F3D9DF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A43832-E16C-42E8-9C9F-B4E2F3D9DF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A43832-E16C-42E8-9C9F-B4E2F3D9DF43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2268ED53-6BA5-44D0-A3A2-7F3859DB8C35}
+	EndGlobalSection
+EndGlobal
